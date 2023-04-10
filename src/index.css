@@ -33,3 +33,15 @@ h1 {
 nav {
   font-weight: 500;
 }
+.box {
+  color: gray;
+  box-shadow: 0 10px 10px 10px;
+  border-radius: 2rem;
+}
+.box1 {
+  border-radius: 2rem;
+}
+.image {
+  border-radius: 1rem;
+  object-fit: contain;
+}
